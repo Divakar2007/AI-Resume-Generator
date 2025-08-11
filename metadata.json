@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Architect",
+  "description": "A modern, minimalistic AI-powered resume and cover letter generator. Enter your job target, experience, and skills to generate a professional resume and a tailored cover letter. Includes a dashboard to store and manage your documents.",
+  "requestFramePermissions": []
+}
